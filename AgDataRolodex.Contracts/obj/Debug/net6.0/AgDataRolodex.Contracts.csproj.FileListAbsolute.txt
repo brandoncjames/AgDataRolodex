@@ -1,0 +1,12 @@
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\bin\Debug\net6.0\AgDataRolodex.Contracts.deps.json
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\bin\Debug\net6.0\AgDataRolodex.Contracts.dll
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\bin\Debug\net6.0\AgDataRolodex.Contracts.pdb
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\AgDataRolodex.Contracts.csproj.AssemblyReference.cache
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\AgDataRolodex.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\AgDataRolodex.Contracts.AssemblyInfoInputs.cache
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\AgDataRolodex.Contracts.AssemblyInfo.cs
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\AgDataRolodex.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\AgDataRolodex.Contracts.dll
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\refint\AgDataRolodex.Contracts.dll
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\AgDataRolodex.Contracts.pdb
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Contracts\obj\Debug\net6.0\ref\AgDataRolodex.Contracts.dll

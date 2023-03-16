@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "aa3Y5ke9766AZNEm129V7ZwlxswG3UROPCpT2U2Z20WleVprWZjij/S8cBpVhNd4IMtBJzWHyikanr5OYhnBfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bjames\\source\\repos\\AgDataRolodex\\AgDataRolodex.Contracts\\AgDataRolodex.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bjames\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\bjames\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\bjames\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\bjames\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.paycor.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packages.paycor.com/nuget/NugetV2'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

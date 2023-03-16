@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "t2IZF/djnsuXGQ+EHtKTsHQaSekKp59Y+oVNOF0bVhM=",
+  "Source": "AgDataRolodex.Service",
+  "BasePath": "_content/AgDataRolodex.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

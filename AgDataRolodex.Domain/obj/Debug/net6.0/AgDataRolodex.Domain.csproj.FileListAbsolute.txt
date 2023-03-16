@@ -1,0 +1,15 @@
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\bin\Debug\net6.0\AgDataRolodex.Domain.deps.json
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\bin\Debug\net6.0\AgDataRolodex.Domain.dll
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\bin\Debug\net6.0\AgDataRolodex.Domain.pdb
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\AgDataRolodex.Domain.csproj.AssemblyReference.cache
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\AgDataRolodex.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\AgDataRolodex.Domain.AssemblyInfoInputs.cache
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\AgDataRolodex.Domain.AssemblyInfo.cs
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\AgDataRolodex.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\AgDataRolodex.Domain.dll
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\refint\AgDataRolodex.Domain.dll
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\AgDataRolodex.Domain.pdb
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\ref\AgDataRolodex.Domain.dll
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\bin\Debug\net6.0\AgDataRolodex.Contracts.dll
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\bin\Debug\net6.0\AgDataRolodex.Contracts.pdb
+C:\Users\bjames\source\repos\AgDataRolodex\AgDataRolodex.Domain\obj\Debug\net6.0\AgDataRolodex.Domain.csproj.CopyComplete
